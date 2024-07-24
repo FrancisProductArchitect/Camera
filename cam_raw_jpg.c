@@ -1,3 +1,14 @@
+/* USER CODE BEGIN Header */
+/**
+  ******************************************************************************
+  * @file           : cam2jpg.c
+  * @brief          : Main program body
+  * @Created on		: Feb 9, 2013
+  * @Author			: Francis Kumar. B
+  ******************************************************************************
+  ******************************************************************************
+  */
+/* USER CODE END Header */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
